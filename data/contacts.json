@@ -1,0 +1,54 @@
+{
+  "contacts": [
+    {
+      "name": "Max Redington",
+      "email": "max@inbox.com",
+      "id": "eaf8c60b-ca2d-4bcf-aec2-4989992bd46b"
+    },
+    {
+      "name": "Phillip Rhodes",
+      "email": "phillip@inbox.com",
+      "id": "e7512482-8bc2-439e-801b-62702d86691c"
+    },
+    {
+      "name": "Lee Adams",
+      "email": "lee@futura.com",
+      "id": "96d52144-5b87-4dfa-a01a-c4d0ea3e2f43"
+    },
+    {
+      "name": "Timothy Bell",
+      "email": "tim@email.com",
+      "id": "11b7232d-abf4-49ca-8f3e-fdc185a5b4c8"
+    },
+    {
+      "name": "Norah Fatehi",
+      "email": "norah@inbox.com",
+      "id": "eab2c819-bebb-42a4-a4e2-247d5fd484ac"
+    },
+    {
+      "id": "959dcf40-791d-4a6b-9805-9b5ee6efeb04",
+      "name": "Max Yi",
+      "email": "max@inbox.com"
+    },
+    {
+      "name": "Regina John",
+      "email": "regina@gmail.com",
+      "id": "03bf4bb4-ebf5-4953-a5de-4c115eb17be0"
+    },
+    {
+      "name": "Kajol Devgan",
+      "email": "kajol@inbox.com",
+      "id": "8b820461-68ce-4e17-bdaf-4aabfcbf648c"
+    },
+    {
+      "name": "Genelia Deshmukh",
+      "email": "genelia@gmail.com",
+      "id": "fd6b886e-82d8-4a89-b020-73c30fc9c843"
+    },
+    {
+      "id": "70f9bb76-3c6c-4acc-8a4f-783148acbd1e",
+      "name": "Katrina Kaushal",
+      "email": "kat@inbox.com"
+    }
+  ]
+}
