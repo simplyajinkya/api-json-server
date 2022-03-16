@@ -10,7 +10,8 @@ module.exports = {
   tags,
   brands,
   itemTypes,
-  contacts
+  contacts,
+  inventory
 }
 
 
