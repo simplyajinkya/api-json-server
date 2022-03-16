@@ -3,6 +3,7 @@ const tags = require("./data/tags");
 const brands = require("./data/brands");
 const itemTypes = require("./data/itemTypes");
 const contacts = require("./data/contacts");
+const inventory = require("./data/inventory");
 
 module.exports = {
   items,

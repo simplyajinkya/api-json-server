@@ -1,0 +1,44 @@
+[
+    {
+      "name": "Bearing Wire",
+      "supplier": "SKF Bearings",
+      "podate": "10/03/2022",
+      "po": "feb.2201",
+      "unit": "mtr",
+      "quantity": 20,
+      "received": 11,
+      "pending": 9,
+      "used": 2,
+      "wastage": 1,
+      "available": 8,
+      "remarks": "doloremque sint ipsam eum unde numquam saepe odit doloremque soluta esse quam"
+    },
+    {
+      "name": "12*12 Inch Glass",
+      "supplier": "Saint Gobian",
+      "podate": "12/03/2022",
+      "po": "feb.2202",
+      "unit": "inch",
+      "quantity": 43,
+      "received": 30,
+      "pending": 13,
+      "used": 3,
+      "wastage": 0,
+      "available": 27,
+      "remarks": "Ipsam eum unde numquam saepe odit doloremque soluta esse quam"
+    },
+    {
+      "name": "Switch",
+      "supplier": "Anchor",
+      "podate": "13/03/2022",
+      "po": "feb.2203",
+      "unit": "nos",
+      "quantity": 7,
+      "received": 0,
+      "pending": 7,
+      "used": 0,
+      "wastage": 0,
+      "available": 0,
+      "remarks": "Lorem ipsum sint ipsam eum unde numquam saepe odit doloremque soluta esse quam"
+    }
+]
