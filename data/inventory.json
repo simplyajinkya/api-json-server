@@ -1,5 +1,6 @@
 [
     {
+      "id": "one",
       "name": "Bearing Wire",
       "supplier": "SKF Bearings",
       "podate": "10/03/2022",
@@ -14,6 +15,7 @@
       "remarks": "doloremque sint ipsam eum unde numquam saepe odit doloremque soluta esse quam"
     },
     {
+      "id": "two",
       "name": "12*12 Inch Glass",
       "supplier": "Saint Gobian",
       "podate": "12/03/2022",
@@ -28,6 +30,7 @@
       "remarks": "Ipsam eum unde numquam saepe odit doloremque soluta esse quam"
     },
     {
+      "id": "three",
       "name": "Switch",
       "supplier": "Anchor",
       "podate": "13/03/2022",
